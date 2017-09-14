@@ -1,0 +1,42 @@
+typography_spectrum: 0.40583225851878524
+color:
+  brandStrength: 0.17373509448952973
+  lightness: 0.30694572255015373
+  saturation: 0.005477464757859707
+  rhythmicContrast: 0.5759625227656215
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+layout_spectrum: 0.6887088054791093
+name: RVAMVMNT
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Things and More Things
+    id: fe78ac3b-f209-49b5-9053-04e2e86aa8f2
+    type: content
+title: RVA MVMNT
+content: []
+description: connect. collab. create.
+purpose:
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/1Tot_Gbmzwb9OgFatVKb3qv5unGxpqHPes3SYkvXA1_M/edit
+    label: Participate
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/1hnYhSZyH-3gBhnCnCtXQiVSQ5iKAvemDDDAVNQxLlps/edit
+    label: Attend
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4867947c-4b31-4971-9a78-804a57eb78f3.png
+author:
+  email: rvamvmnt@gmail.com
